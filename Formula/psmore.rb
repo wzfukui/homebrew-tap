@@ -1,8 +1,8 @@
 class Psmore < Formula
   desc "Relationship-first process diagnostics workbench for macOS and Linux"
   homepage "https://github.com/wzfukui/psmore"
-  url "https://github.com/wzfukui/psmore/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "9bf240093a3e4ae284a5d5b3f6a781e6d0c376b8cfa31fddda92edcf8e297cf0"
+  url "https://github.com/wzfukui/psmore/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "23c5a428802ecf9daa6d18196596589a8605926d9eaf594c98f564590f705925"
   license "MIT"
   head "https://github.com/wzfukui/psmore.git", branch: "main"
 
